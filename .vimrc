@@ -1,6 +1,7 @@
 execute pathogen#infect()
 set nocompatible
 filetype plugin on
+map <C-n> :NERDTreeToggle<CR>
 
 set number
 set autoindent
