@@ -3,11 +3,11 @@ set nocompatible
 filetype plugin on
 map <C-n> :NERDTreeToggle<CR>
 
-syntax enable
-set t_Co=16
-set background=dark
-colorscheme solarized
-"colorscheme Tomorrow-Night
+"syntax enable
+"set background=dark
+set t_Co=256
+"colorscheme solarized
+colorscheme Tomorrow-Night
 
 set number
 set autoindent
