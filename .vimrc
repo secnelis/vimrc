@@ -69,4 +69,3 @@ nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
 nmap <F5> :!php %<cr>
-
