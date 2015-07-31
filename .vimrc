@@ -68,4 +68,4 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
-nmap <F5> :!php %<cr>
+nmap <F5> :w<cr>:!php %<cr>
